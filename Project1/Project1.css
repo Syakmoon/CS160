@@ -33,3 +33,18 @@
   #detail_button {
     white-space: pre;
 }
+
+.demoAlert-bottom{
+    position: fixed;
+    bottom: 5px;
+    left:2%;
+    width: 95%;
+}
+
+div.fullscreen {
+    position: absolute;
+    width:100%; 
+    min-height:740px; 
+    top: 0; 
+    left: 0; 
+  }
