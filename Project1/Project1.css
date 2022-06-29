@@ -10,9 +10,13 @@
     height:50px; 
    }
 
-   .feature-image2 {
-       height:32px; 
-      }
+.feature-image2 {
+    height:32px; 
+    }
+
+.feature-image3 {
+    height:30px; 
+    }
 
    div.scrollmenu {
     overflow: auto;
